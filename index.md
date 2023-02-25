@@ -1,6 +1,6 @@
-##Project Portfolio
+## Project Portfolio
 
-#Fraud Detection
+# Fraud Detection
 
 Fraud Detection is a set of business process that stops people from carrying our unathorized business activities
 
